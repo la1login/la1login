@@ -1,6 +1,6 @@
 ### Привет, меня зовут Сергей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
 ### Учусь на 1 курсе магистратуры РУДН по направлению Фундаментальная информатика и информационные технологии
-### Здесь можно найти мои учебные и личные проекты, лабораторные работы и прочие задания
+### Здесь можно найти мои учебные и личные проекты, лабораторные работы и прочие задания, почти все лежит в **la1login/work**
 #### Связаться со мной можно в <a href="https://t.me/lalogin" target="_blank">Телеграме</a> 
 <!--
 **la1login/la1login** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
